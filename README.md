@@ -29,3 +29,7 @@ Kaue
 
 # Meu Propósito 3
 Meu propósito com o grupo é aprender novas linguagens e me motivar a desenvolver websites, conhecimentos interessantes.
+
+# Meu Propósito 4
+Meu principal proposito aqui é poder ter contato com linguagens novas ligadas ao desenvolvimento web e, quem sabe, aprender conhecimentos um pouco mais práticos.
+
